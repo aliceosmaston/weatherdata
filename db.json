@@ -1,0 +1,119 @@
+ [
+        {
+            "coord": {
+                "lon": 37.62,
+                "lat": 55.75
+            },
+            "sys": {
+                "country": "RU",
+                "timezone": 10800,
+                "sunrise": 1588383817,
+                "sunset": 1588439351
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "clear sky",
+                    "icon": "01d"
+                }
+            ],
+            "main": {
+                "temp": 11.53,
+                "feels_like": 5.26,
+                "temp_min": 11,
+                "temp_max": 12.22,
+                "pressure": 1016,
+                "humidity": 43
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 6,
+                "deg": 130
+            },
+            "clouds": {
+                "all": 8
+            },
+            "dt": 1588406699,
+            "id": 524901,
+            "name": "Moscow"
+        },
+        {
+            "coord": {
+                "lon": 30.52,
+                "lat": 50.43
+            },
+            "sys": {
+                "country": "UA",
+                "timezone": 10800,
+                "sunrise": 1588386639,
+                "sunset": 1588439937
+            },
+            "weather": [
+                {
+                    "id": 802,
+                    "main": "Clouds",
+                    "description": "scattered clouds",
+                    "icon": "03d"
+                }
+            ],
+            "main": {
+                "temp": 16.97,
+                "feels_like": 16.09,
+                "temp_min": 16,
+                "temp_max": 17.78,
+                "pressure": 1006,
+                "humidity": 82
+            },
+            "visibility": 9000,
+            "wind": {
+                "speed": 3,
+                "deg": 90
+            },
+            "clouds": {
+                "all": 40
+            },
+            "dt": 1588406947,
+            "id": 703448,
+            "name": "Kiev"
+        },
+        {
+            "coord": {
+                "lon": -0.13,
+                "lat": 51.51
+            },
+            "sys": {
+                "country": "GB",
+                "timezone": 3600,
+                "sunrise": 1588393782,
+                "sunset": 1588447504
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "clear sky",
+                    "icon": "01d"
+                }
+            ],
+            "main": {
+                "temp": 10.81,
+                "feels_like": 5.85,
+                "temp_min": 10,
+                "temp_max": 12.22,
+                "pressure": 1009,
+                "humidity": 71
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 5.7,
+                "deg": 290
+            },
+            "clouds": {
+                "all": 0
+            },
+            "dt": 1588406960,
+            "id": 2643743,
+            "name": "London"
+        }
+    ]
